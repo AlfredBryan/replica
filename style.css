@@ -1,0 +1,151 @@
+}
+ .first {
+     position: relative;
+ }
+
+
+ form {
+     position: absolute;
+     top: 40%;
+     left: 45%;
+ }
+ .h1{position: absolute;
+    top: 10%;
+    left: 20%;
+    color: white;
+    font-size: 70px;
+    margin-right: 200px;
+    text-align: center;
+    font-weight: bold;
+
+}
+.h2{position: absolute;
+    top: 32%;
+    left: 38%;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+input{height: 40px; width: 250px;}
+button{height: 40px;
+	width: 150px;
+	margin-left: 15px;
+	border-radius: 20px;
+    background-color: rgb(14, 182, 14);
+    color: white;
+    font-weight: bold;
+}
+.form{color: white;
+    text-align: center;
+    font-size: 17px;
+    margin-top: 20px;
+}
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+    background-color: black;
+  }
+ 
+footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+}
+.divider {
+ 
+    border-right:1px solid white;
+    height:30px;
+
+    top:10px; 
+}
+.container{height: 70px;
+background-color: black;
+font-size: 20px;}
+.navbar-brand{font-size: 40px;color: white;}
+#nav{color: white;}
+.column2{text-align: center;
+    font-weight: bold;
+    font-family: 'Secular One', sans-serif;
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+body{font-family: 'Roboto Slab', serif;}
+.sub{font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+img{display: block;}
+.footer{height: 450px;
+    background-color: black;
+}
+.logo{float: left;
+    margin-left: 300px;
+    color: white;
+    margin-top: 30px;
+}
+.company{float: left;
+    margin-left: 40px;
+    color: white;
+    margin-top: 55px;
+}
+.company h3{color: rgb(187, 185, 180);
+    font-family: 'Bitter', serif;
+    font-size: 13px;
+}
+.communities h3{color: rgb(187, 185, 180);
+    font-family: 'Bitter', serif;
+    font-size: 13px;
+}
+.useful h3{color: rgb(187, 185, 180);
+    font-family: 'Bitter', serif;
+    font-size: 13px;
+}
+a{color: white;}
+a:hover{color: springgreen;}
+.communities{float: left;
+    margin-left: 150px;
+    color: white;
+    margin-top: 55px;
+}
+.useful{float: left;
+    margin-left: 150px;
+    color: white;
+    margin-top: 55px;
+}
+
+    .list-inline{float: left;
+        margin-left: 230px;
+        color: white;
+        margin-top: 90px;}
+   .fa{background-color: rgb(59, 59, 59);
+    border-radius: 30px;
+} 
+.fa:hover{color: springgreen; } 
+.footer2{background-color: black; height: 150px;}
+.legal{float: left; 
+    margin-left: 300px;
+    margin-top: 30px;
+    color: rgb(187, 185, 180);
+}
+.privacy{float: left;
+    margin-top: 30px;
+    margin-left: 30px;
+    color: rgb(187, 185, 180);
+}
+.cookies{float: left;
+    margin-top: 30px;
+    margin-left: 30px;
+    color: rgb(187, 185, 180);
+}
+.about{float: left;
+    margin-top: 30px;
+    margin-left: 30px;
+    color: rgb(187, 185, 180);
+}
+.copyright{margin-left: 700px;
+    color: rgb(187, 185, 180);
+}
+
+
+
